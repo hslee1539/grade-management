@@ -1,0 +1,266 @@
+﻿  stdafx.cpp
+  학점관리포털.cpp
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Math.h(23): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Math.h(25): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Object.h(134): warning C4244: '+=': 'long'에서 'INT8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Object.h(135): warning C4244: '+=': 'long'에서 'INT8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Object.h(136): warning C4244: '+=': 'long'에서 'INT8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\TextObject.h(99): warning C4244: '+=': 'long'에서 'INT8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\TextObject.h(100): warning C4244: '+=': 'long'에서 'INT8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\TextObject.h(101): warning C4244: '+=': 'long'에서 'INT8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(9): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\PortalSystem1.h(52): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\PortalSystem1.h(63): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\PortalSystem1.h(65): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\PortalSystem2.h(13): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\PortalSystem2.h(90): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\PortalSystem2.h(113): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\PortalSystem2.h(114): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\PortalSystem2.h(117): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\PortalSystem2.h(119): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\PortalSystem2.h(120): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\PortalSystem2.h(121): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\PortalSystem2.h(124): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\PortalSystem2.h(127): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(77): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(98): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(99): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(99): warning C4244: '초기화 중': 'long'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(101): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(101): warning C4244: '초기화 중': 'long'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(102): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(102): warning C4244: '초기화 중': 'long'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(103): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(103): warning C4244: '초기화 중': 'long'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(104): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(105): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(106): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(107): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(108): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(109): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(110): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(111): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(112): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(113): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(115): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(115): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(129): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(135): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(141): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(157): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(158): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(158): warning C4244: '초기화 중': 'long'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(160): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(160): warning C4244: '초기화 중': 'long'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(161): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(161): warning C4244: '초기화 중': 'long'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(162): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(162): warning C4244: '초기화 중': 'long'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(163): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(164): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(165): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(166): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(166): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(177): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(186): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(191): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(192): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(192): warning C4244: '초기화 중': 'long'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(193): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(193): warning C4244: '초기화 중': 'long'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(194): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(195): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(208): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(213): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(235): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(238): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(241): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(242): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(243): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(248): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(19): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(19): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(21): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(21): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(23): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(23): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(25): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(25): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(27): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(27): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(30): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(32): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(34): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(36): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(38): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(40): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(42): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(44): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(46): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(48): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(50): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(52): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(54): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(54): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(56): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(56): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(59): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(59): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(61): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(63): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(63): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(65): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(67): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(67): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(69): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(71): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(71): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(73): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(153): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(156): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\MainFrame.h(161): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(19): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(19): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(21): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(21): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(23): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(23): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(25): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(25): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(27): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(27): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(30): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(30): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(32): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(32): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(34): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(34): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(36): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(36): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(38): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(38): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(70): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(72): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(73): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(79): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(81): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(82): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(88): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(90): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(91): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(138): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\InputFrame.h(142): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(20): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(20): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(22): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(22): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(24): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(24): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(26): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(26): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(28): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(28): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(32): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(32): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(34): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(34): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(36): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(36): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(38): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(38): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(40): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(40): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(71): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(73): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(74): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(80): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(82): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(83): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(89): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(91): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(92): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(139): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\DeleteFrame.h(143): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(15): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(15): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(17): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(17): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(19): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(19): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(21): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(21): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(23): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(23): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(26): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(26): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(28): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(28): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(61): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(62): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(83): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\ReportFrame.h(87): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(40): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(82): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(91): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(110): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(110): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(112): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(112): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(114): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(114): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(116): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(116): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(118): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(118): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(121): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(121): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(123): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(123): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(125): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(125): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(127): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(127): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(129): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(129): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(131): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(131): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\GameFrame.h(188): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+학점관리포털.cpp(163): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+학점관리포털.cpp(169): warning C4244: '=': 'WPARAM'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+학점관리포털.cpp(173): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\LinkedList.h(98): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\LinkedList.h(87): note: 클래스 템플릿 멤버 함수 'bool LinkedList<long,Frame *>::moveKey(keyT &,bool)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              keyT=long
+          ]
+  c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(68): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool LinkedList<long,Frame *>::moveKey(keyT &,bool)'에 대한 참조를 확인하십시오.
+          with
+          [
+              keyT=long
+          ]
+  c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Frame.h(44): note: 컴파일 중인 클래스 템플릿 인스턴스화 'LinkedList<long,Frame *>'에 대한 참조를 확인하십시오.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\File.h(61): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\File.h(51): note: 클래스 템플릿 멤버 함수 'Array<Subject> File<Subject>::read(void)'을(를) 컴파일하고 있습니다.
+  c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\PortalSystem1.h(29): note: 컴파일 중인 함수 템플릿 인스턴스화 'Array<Subject> File<Subject>::read(void)'에 대한 참조를 확인하십시오.
+  c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\PortalSystem1.h(23): note: 컴파일 중인 클래스 템플릿 인스턴스화 'File<Subject>'에 대한 참조를 확인하십시오.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\File.h(62): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Array1.h(39): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Array1.h(84): note: 컴파일 중인 함수 템플릿 인스턴스화 'void Array<char>::init<char>(dataT *,std::size_t,std::size_t)'에 대한 참조를 확인하십시오.
+          with
+          [
+              dataT=char
+          ]
+  c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Array1.h(84): note: 컴파일 중인 함수 템플릿 인스턴스화 'void Array<char>::init<char>(dataT *,std::size_t,std::size_t)'에 대한 참조를 확인하십시오.
+          with
+          [
+              dataT=char
+          ]
+  c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Array1.h(84): note: 클래스 템플릿 멤버 함수 'Array<char>::Array(std::size_t,std::size_t)'을(를) 컴파일하고 있습니다.
+  c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Math.h(22): note: 컴파일 중인 함수 템플릿 인스턴스화 'Array<char>::Array(std::size_t,std::size_t)'에 대한 참조를 확인하십시오.
+  c:\users\hs\documents\visual studio 2015\projects\학점관리포털\학점관리포털\Math.h(19): note: 컴파일 중인 클래스 템플릿 인스턴스화 'Array<char>'에 대한 참조를 확인하십시오.
+  코드를 생성하고 있습니다.
+  All 700 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  학점관리포털.vcxproj -> C:\Users\hs\Documents\Visual Studio 2015\Projects\학점관리포털\x64\Release\학점관리포털.exe
+  학점관리포털.vcxproj -> C:\Users\hs\Documents\Visual Studio 2015\Projects\학점관리포털\x64\Release\학점관리포털.pdb (Full PDB)
